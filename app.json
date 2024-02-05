@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "Americapedia",
-    "slug": "Americapedia"
+    "slug": "Americapedia",
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCNJSPykVzBGENUg0mBydKWJhznd02Dp98"
+        }
+      },
+      "package": "com.ritchieridanko.Americapedia"
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "9bd4cc1d-3bdf-457b-8453-50169f97c49d"
+      }
+    }
   }
 }

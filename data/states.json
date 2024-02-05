@@ -1,0 +1,626 @@
+[
+  {
+    "Slug State": "alabama",
+    "Postal": "AL",
+    "Coordinates": {
+      "latitude": 32.8067,
+      "longitude": -86.7911,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Alabama is a state in the Southeastern region of the United States. It borders Tennessee to the north, Georgia to the east, Florida and the Gulf of Mexico to the south, and Mississippi to the west. Alabama is the 30th largest by area and the 24th-most populous of the 50 U.S. states.",
+    "Second Info": "The state has diverse geography, with the north dominated by the mountainous Tennessee Valley and the south by Mobile Bay, a historically significant port. Politically, as part of the Deep South, Alabama is predominantly a conservative state, and is known for its Southern culture. Within Alabama, American football, particularly at the college level, plays a major part of the state's culture."
+  },
+  {
+    "Slug State": "alaska",
+    "Postal": "AK",
+    "Coordinates": {
+      "latitude": 58.3019,
+      "longitude": -134.4197,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Alaska is a non-contiguous U.S. state on the northwest extremity of North America. It borders British Columbia and Yukon in Canada to the east and it shares a western maritime border in the Bering Strait with Russia's Chukotka Autonomous Okrug. The Chukchi and Beaufort Seas of the Arctic Ocean lie to the north and the Pacific Ocean lies to the south. Technically, a semi-exclave of the U.S., Alaska is the largest exclave in the world.",
+    "Second Info": "Abundant natural resources have enabled Alaska—with one of the smallest state economies—to have one of the highest per capita incomes, with commercial fishing, and the extraction of natural gas and oil, dominating Alaska's economy. U.S. Armed Forces bases and tourism also contribute to the economy; more than half the state is federally-owned land containing national forests, national parks, and wildlife refuges. It is among the most irreligious states, one of the first to legalize recreational marijuana, and is known for its libertarian-leaning political culture, generally supporting the Republican Party in national elections. The Indigenous population of Alaska is proportionally the second highest of any U.S. state, at over 15 percent, after only Hawaii."
+  },
+  {
+    "Slug State": "arizona",
+    "Postal": "AZ",
+    "Coordinates": {
+      "latitude": 33.4484,
+      "longitude": -112.0740,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Arizona is a state in the Southwestern region of the United States. Arizona is part of the Four Corners region with Utah to the north, Colorado to the northeast, and New Mexico to the east; its other neighboring states are Nevada to the northwest, California to the west and the Mexican states of Sonora and Baja California to the south and southwest. It is the 6th-largest and the 14th-most-populous of the 50 states. Its capital and largest city is Phoenix.",
+    "Second Info": "Arizona is home to a diverse population. About one-quarter of the state is made up of Indian reservations that serve as the home of 27 federally recognized Native American tribes, including the Navajo Nation, the largest in the state and the United States, with more than 300,000 citizens. Since the 1980s, the proportion of Hispanics in the state's population has grown significantly owing to migration from Mexico. A substantial portion of the population are followers of the Roman Catholic Church and the Church of Jesus Christ of Latter-day Saints."
+  },
+  {
+    "Slug State": "arkansas",
+    "Postal": "AR",
+    "Coordinates": {
+      "latitude": 34.7465,
+      "longitude": -92.2896,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Arkansas is a landlocked state in the South Central region of the Southern United States. It borders Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. Its name derives from the Osage language, a Dhegiha Siouan language, and referred to their relatives, the Quapaw people. The state's diverse geography ranges from the mountainous regions of the Ozark and Ouachita Mountains, which make up the U.S. Interior Highlands, to the densely forested land in the south known as the Arkansas Timberlands, to the eastern lowlands along the Mississippi River and the Arkansas Delta.",
+    "Second Info": "Arkansas's culture is observable in museums, theaters, novels, television shows, restaurants, and athletic venues across the state. Notable people from the state include politician and educational advocate William Fulbright; former president Bill Clinton, who also served as the 40th and 42nd governor of Arkansas; general Wesley Clark, former NATO Supreme Allied Commander; Walmart founder and magnate Sam Walton; singer-songwriters Johnny Cash, Charlie Rich, Jimmy Driftwood, and Glen Campbell; actor-filmmaker Billy Bob Thornton; poet C. D. Wright; physicist William L. McMillan, a pioneer in superconductor research; poet laureate Maya Angelou; Douglas MacArthur; musician Al Green; actor Alan Ladd; basketball player Scottie Pippen; singer Ne-Yo; Chelsea Clinton; actress Sheryl Underwood; and author John Grisham."
+  },
+  {
+    "Slug State": "california",
+    "Postal": "CA",
+    "Coordinates": {
+      "latitude": 36.7783,
+      "longitude": -119.4179,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "California is a state in the Western region of the United States. It borders Oregon to the north, Nevada and Arizona to the east, and the Mexican state of Baja California to the south; it has a coastline along the Pacific Ocean to the west. With over 38.9 million residents across a total area of approximately 163,696 square miles (423,970 km2), it is the most populous U.S. state, the third-largest U.S. state by area, and the most populated subnational entity in North America.",
+    "Second Info": "California's economy is the largest of any state within the United States, with a $3.6 trillion gross state product (GSP) as of 2022. It is the largest sub-national economy in the world. If California were a sovereign nation, it would rank as the world's fifth-largest economy as of 2022, behind India and ahead of the United Kingdom, as well as the 37th most populous. The Greater Los Angeles area and the San Francisco area are the nation's second- and fourth-largest urban economies ($1.0 trillion and $0.6 trillion respectively as of 2020). The San Francisco Bay Area Combined Statistical Area had the nation's highest gross domestic product per capita ($106,757) among large primary statistical areas in 2018, and is home to five of the world's ten largest companies by market capitalization and four of the world's ten richest people. Slightly over 84 percent of the state's residents 25 or older hold a high school degree, the lowest high school education rate of all 50 states."
+  },
+  {
+    "Slug State": "colorado",
+    "Postal": "CO",
+    "Coordinates": {
+      "latitude": 38.9972,
+      "longitude": -105.5478,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Colorado is a state in the Mountain West subregion of the Western United States. Colorado borders Wyoming to the north, Nebraska to the northeast, Kansas to the east, Oklahoma to the southeast, New Mexico to the south, Utah to the west, and meets Arizona to the southwest at the Four Corners. Colorado is noted for its landscape of mountains, forests, high plains, mesas, canyons, plateaus, rivers, and desert lands. Colorado is one of the Mountain States and is often considered to be part of the southwestern United States. The high plains of Colorado may be considered a part of the midwestern United States. It encompasses most of the Southern Rocky Mountains, as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains. Colorado is the eighth most extensive and 21st most populous U.S. state. The United States Census Bureau estimated the population of Colorado at 5,877,610 as of July 1, 2023, a 1.80% increase since the 2020 United States census.",
+    "Second Info": "The region has been inhabited by Native Americans and their ancestors for at least 13,500 years and possibly much longer. The eastern edge of the Rocky Mountains was a major migration route for early peoples who spread throughout the Americas. In 1848, much of the region was annexed to the United States with the Treaty of Guadalupe Hidalgo. The Pike's Peak Gold Rush of 1858-1862 created an influx of settlers. On February 28, 1861, U.S. President James Buchanan signed an act creating the Territory of Colorado, and on August 1, 1876, President Ulysses S. Grant signed Proclamation 230 admitting Colorado to the Union as the 38th state. The Spanish adjective 'colorado' means 'colored red' or 'ruddy'. Colorado is nicknamed the 'Centennial State' because it became a state one century (and four weeks) after the signing of the United States Declaration of Independence."
+  },
+  {
+    "Slug State": "connecticut",
+    "Postal": "CT",
+    "Coordinates": {
+      "latitude": 41.6219,
+      "longitude": -72.7273,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Connecticut is the southernmost state in the New England region of the Northeastern United States. It borders Rhode Island to its east, Massachusetts to its north, New York to its west, and Long Island Sound to its south. Its capital is Hartford, and its most populous city is Bridgeport. Historically, the state is part of New England as well as the tri-state area with New York and New Jersey. The state is named for the Connecticut River which approximately bisects the state. The word Connecticut is derived from various anglicized spellings of Quinnetuket, a Mohegan-Pequot word for 'long tidal river'. As of the 2020 United States census, Connecticut was home to over 3.6 million residents, its highest decennial count ever, growing every decade since 1790.",
+    "Second Info": "Connecticut is the third-smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states. It is known as the 'Constitution State', the 'Nutmeg State', the 'Provisions State', and the 'Land of Steady Habits'. The state identifies as creators, makers, innovators, and entrepreneurs who are a powerful force for good in the country. The state logo is the iconic C+T, with the T recognizable sideways making up the negative space in the C. The Connecticut River, Thames River, and ports along Long Island Sound have given Connecticut a strong maritime tradition which continues today. Connecticut is home to the nation's oldest newspaper, The Hartford Courant, founded in 1764. The state also has a long history of hosting the financial services industry, including insurance companies in Hartford County and hedge funds in Fairfield County. As of the 2010 census, it has the highest per-capita income, second-highest level of human development behind Massachusetts, and highest median household income in the United States."
+  },
+  {
+    "Slug State": "delaware",
+    "Postal": "DE",
+    "Coordinates": {
+      "latitude": 38.9108,
+      "longitude": -75.5277,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Delaware is a state in the Northeast and Mid-Atlantic regions of the United States. It borders Maryland to its south and west, Pennsylvania to its north, New Jersey to its northeast, and the Atlantic Ocean to its east. The state's name derives from the adjacent Delaware Bay, which in turn was named after Thomas West, 3rd Baron De La Warr, an English nobleman and the Colony of Virginia's first colonial-era governor.",
+    "Second Info": "Since the turn of the 20th century, Delaware has become an onshore corporate haven whose corporate laws are deemed appealing to corporations; over half of all New York Stock Exchange-listed corporations and over three-fifths of the Fortune 500 is legally incorporated in the state."
+  },
+  {
+    "Slug State": "florida",
+    "Postal": "FL",
+    "Coordinates": {
+      "latitude": 27.9944,
+      "longitude": -81.7603,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Florida is a state in the Southeastern region of the United States. It borders the Gulf of Mexico to the west, Alabama to the northwest, Georgia to the north, the Bahamas and Atlantic Ocean to the east; and the Straits of Florida and Cuba to the south. It is the only state that borders both the Gulf of Mexico and the Atlantic Ocean. With a population over 21 million, it is the third-most populous state in the nation and ranks eighth in population density as of 2020. It spans 65,758 square miles (170,310 km2), ranking 22nd in area among the 50 states. The Miami metropolitan area, anchored by the cities of Miami, Fort Lauderdale, and West Palm Beach, is the state's largest metropolitan area with a population of 6.138 million, and the state's most-populous city is Jacksonville with a population of 949,611. Florida's other major population centers include Tampa Bay, Orlando, Cape Coral, and the state capital of Tallahassee.",
+    "Second Info": "Since the mid-20th century, Florida has experienced rapid demographic and economic growth. Its economy, with a gross state product (GSP) of $1.4 trillion, is the fourth-largest of any U.S. state and the 16th-largest in the world; the main sectors are tourism, hospitality, agriculture, real estate, and transportation. Florida is world-renowned for its beach resorts, amusement parks, warm and sunny climate, and nautical recreation; attractions such as Walt Disney World, the Kennedy Space Center, and Miami Beach draw tens of millions of visitors annually. Florida is a popular destination for retirees, seasonal vacationers, and both domestic and international migrants; it hosts nine out of the ten fastest-growing communities in the U.S. The state's close proximity to the ocean has shaped its culture, identity, and daily life; its colonial history and successive waves of migration are reflected in African, European, Indigenous, Latino, and Asian influences. Florida has attracted or inspired some of the most prominent American writers, including Ernest Hemingway, Marjorie Kinnan Rawlings, and Tennessee Williams, and continues to attract celebrities and athletes, particularly in golf, tennis, auto racing, and water sports. Florida has been considered a battleground state in American presidential elections, particularly those in 2000, 2016, and 2020."
+  },
+  {
+    "Slug State": "georgia",
+    "Postal": "GA",
+    "Coordinates": {
+      "latitude": 32.6415,
+      "longitude": -83.4426,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Georgia is a state in the Southeastern region of the United States. It borders Tennessee to the northwest, North Carolina to the north, South Carolina to the northeast, Florida to the south, and Alabama to the west. Of the 50 United States, Georgia is the 24th-largest by area and 8th most populous. According to the U.S. Census Bureau, its 2023 estimated population was 11,029,227. Atlanta, a global city, is both the state's capital and its largest city. The Atlanta metropolitan area, with a population of more than 6 million people in 2021, is the 8th most populous metropolitan area in the United States and contains about 57% of Georgia's entire population. Other major metropolitan areas in the state include Augusta, Savannah, Columbus, and Macon. Georgia has a coastline with the Atlantic Ocean.",
+    "Second Info": "Georgia is defined by a diversity of landscapes, flora, and fauna. The state's northernmost regions include the Blue Ridge Mountains, part of the larger Appalachian Mountain system. The Piedmont plateau extends from the foothills of the Blue Ridge south to the Fall Line, an escarpment to the Coastal Plain defining the state's southern region. Georgia's highest point is Brasstown Bald at 4,784 feet (1,458 m) above sea level; the lowest is the Atlantic Ocean. With the exception of some high-altitude areas in the Blue Ridge, the entirety of the state has a humid subtropical climate. Of the states entirely east of the Mississippi River, Georgia is the largest in land area."
+  },
+  {
+    "Slug State": "hawaii",
+    "Postal": "HI",
+    "Coordinates": {
+      "latitude": 20.7961,
+      "longitude": -156.3319,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Hawaii is an island state in the Western region of the United States, about 2,000 miles (3,200 km) from the U.S. mainland in the Pacific Ocean. It is the only state outside North America which is an archipelago, and the only one in the tropics.",
+    "Second Info": "Historically dominated by a plantation economy, Hawaii remains a major agricultural exporter due to its fertile soil and uniquely tropical climate in the U.S. Its economy has gradually diversified since the mid-20th century, with tourism and military defense becoming the two largest sectors. The state attracts visitors, surfers, and scientists with its diverse natural scenery, warm tropical climate, abundant public beaches, oceanic surroundings, active volcanoes, and clear skies on the Big Island. Hawaii hosts the United States Pacific Fleet, the world's largest naval command, as well as 75,000 employees of the Defense Department. Hawaii's relative isolation results in one of the highest costs of living in the U.S. However, Hawaii is the third-wealthiest state, and residents have the longest life expectancy of any U.S. state, at 80.7 years."
+  },
+  {
+    "Slug State": "idaho",
+    "Postal": "ID",
+    "Coordinates": {
+      "latitude": 44.0682,
+      "longitude": -114.7420,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Idaho is a state in the Mountain West subregion of the United States. It shares a small portion of the Canada-United States border to the north, with the province of British Columbia. It borders Montana and Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west. The state's capital and largest city is Boise. With an area of 83,570 square miles (216,400 km2), Idaho is the 14th largest state by land area. With a population of approximately 1.8 million, it ranks as the 13th least populous and the 6th least densely populated of the 50 U.S. states.",
+    "Second Info": "Industries significant for the state economy include manufacturing, agriculture, mining, forestry, and tourism. Several science and technology firms are either headquartered in Idaho or have factories there, and the state also contains the Idaho National Laboratory, which is the country's largest Department of Energy facility. Idaho's agricultural sector supplies many products, but the state is best known for its potato crop, which comprises around one-third of the nationwide yield. The official state nickname is the 'Gem State.'"
+  },
+  {
+    "Slug State": "illinois",
+    "Postal": "IL",
+    "Coordinates": {
+      "latitude": 40.3495,
+      "longitude": -88.9861,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Illinois is a state in the Midwestern region of the United States. It borders Great Lakes to its northeast, the Mississippi River to its west, and the Wabash and Ohio rivers to its south. Its largest metropolitan areas are Chicago and the Metro East region of Greater St. Louis. Other metropolitan areas include Peoria and Rockford, as well as Springfield, its capital, and Champaign-Urbana, home to the main campus of the state's flagship university. Of the fifty U.S. states, Illinois has the fifth-largest gross domestic product (GDP), the sixth-largest population, and the 25th-largest land area.",
+    "Second Info": "Two World Heritage Sites are in Illinois, the ancient Cahokia Mounds, and part of the Wright architecture site. Major centers of learning include the University of Chicago, University of Illinois, and Northwestern University. A wide variety of protected areas seek to conserve Illinois' natural and cultural resources. Historically, three U.S. presidents have been elected while residents of Illinois: Abraham Lincoln, Ulysses S. Grant, and Barack Obama; additionally, Ronald Reagan was born and raised in the state. Illinois honors Lincoln with its official state slogan Land of Lincoln. The state is the site of the Abraham Lincoln Presidential Library and Museum in Springfield and the future home of the Barack Obama Presidential Center in Chicago."
+  },
+  {
+    "Slug State": "indiana",
+    "Postal": "IN",
+    "Coordinates": {
+      "latitude": 39.8647,
+      "longitude": -86.2604,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Indiana is a state in the Midwestern region of the United States. It borders Lake Michigan to the northwest, Michigan to the north and northeast, Ohio to the east, the Ohio River and Kentucky to the south and southeast, and the Wabash River and Illinois to the west. It is the 38th-largest by area and the 17th-most populous of the 50 States. Its capital and largest city is Indianapolis. Indiana was admitted to the United States as the 19th state on December 11, 1816.",
+    "Second Info": "Indiana has a diverse economy with a gross state product of $352.62 billion in 2021. It has several metropolitan areas with populations greater than 100,000 and a number of smaller cities and towns. Indiana is home to professional sports teams, including the NFL's Indianapolis Colts and the NBA's Indiana Pacers. The state also hosts several notable competitive events, such as the Indianapolis 500, held at Indianapolis Motor Speedway."
+  },
+  {
+    "Slug State": "iowa",
+    "Postal": "IA",
+    "Coordinates": {
+      "latitude": 41.8780,
+      "longitude": -93.0977,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Iowa is a state in the upper Midwestern region of the United States. It borders the Mississippi River to the east and the Missouri River and Big Sioux River to the west; Wisconsin to the northeast, Illinois to the east and southeast, Missouri to the south, Nebraska to the west, South Dakota to the northwest, and Minnesota to the north.",
+    "Second Info": "Iowa is the 26th largest in total area and the 31st most populous of the 50 U.S. states, with a population of 3,190,369, according to the 2020 census. The state's capital, most populous city, and largest metropolitan area fully located within the state is Des Moines. A portion of the larger Omaha, Nebraska, metropolitan area extends into three counties of southwest Iowa. Iowa has been listed as one of the safest U.S. states to live in."
+  },
+  {
+    "Slug State": "kansas",
+    "Postal": "KS",
+    "Coordinates": {
+      "latitude": 38.4988,
+      "longitude": -98.3201,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Kansas is a state in the Midwestern region of the United States. Kansas is a landlocked state which borders Nebraska to the north; Missouri to the east; Oklahoma to the south; and Colorado to the west. Kansas is named after the Kansas River, in turn named after the Kansa people. Its capital is Topeka, its largest metropolitan core is Kansas City MO-KS and its most populous municipality is Wichita.",
+    "Second Info": "As of 2015, Kansas was among the most productive agricultural states, producing high yields of wheat, corn, sorghum, and soybeans. In addition to its traditional strength in agriculture, Kansas possesses an extensive aerospace industry. Kansas, which has an area of 82,278 square miles (213,100 square kilometers) is the 15th-largest state by area, the 36th most-populous of the 50 states, with a population of 2,940,865 according to the 2020 census, and the 10th least densely populated. Residents of Kansas are called Kansans. Mount Sunflower is Kansas's highest point at 4,039 feet (1,231 meters)."
+  },
+  {
+    "Slug State": "kentucky",
+    "Postal": "KY",
+    "Coordinates": {
+      "latitude": 37.8393,
+      "longitude": -84.2700,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Kentucky is a state in the Southeastern region of the United States. Kentucky borders Illinois, Indiana, and Ohio to the north, West Virginia to the northeast, Virginia to the east, Tennessee to the south, and Missouri to the west. Its northern border is defined by the Ohio River. Its capital is Frankfort and its largest city is Louisville. As of 2020, the population was approximately 4.5 million.",
+    "Second Info": "The state is home to the world's longest cave system in Mammoth Cave National Park, the greatest length of navigable waterways and streams in the contiguous United States, and the two largest artificial lakes east of the Mississippi River. Kentucky is known for its distinct culture, which features horse racing, bourbon, moonshine, coal, My Old Kentucky Home State Park, automobile manufacturing, tobacco, southern cuisine, barbecue, bluegrass music, college basketball, Louisville Slugger baseball bats, Kentucky Fried Chicken, and the Kentucky Colonel."
+  },
+  {
+    "Slug State": "louisiana",
+    "Postal": "LA",
+    "Coordinates": {
+      "latitude": 31.2448,
+      "longitude": -92.1450,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Louisiana is a state in the Deep South and South Central regions of the United States. It borders Texas to the west, Arkansas to the north, and Mississippi to the east. Of the 50 U.S. states, it ranks 20th in land area and the 25th in population, with roughly 4.6 million residents. Reflecting its French heritage, Louisiana is the only U.S. state with political subdivisions termed parishes, which are equivalent to counties, making it one of only two U.S. states not subdivided into counties (the other being Alaska and its boroughs). Baton Rouge is the state's capital, and New Orleans, a French Louisiana region, is its largest city with a population of about 383,000 people. Louisiana has a coastline with the Gulf of Mexico to the south; a large part of its eastern boundary is demarcated by the Mississippi River.",
+    "Second Info": "Louisiana's unique French heritage is reflected in its toponyms, dialects, customs, demographics, and legal system. Relative to the rest of the southern U.S., Louisiana is multilingual and multicultural, reflecting an admixture of Louisiana French (Cajun, Creole), Spanish, French Canadian, Acadian, Dominican Creole, Native American, and West African cultures (generally the descendants of slaves imported in the 18th century); more recent migrants include Filipinos and Vietnamese. In the post-Civil War environment, Anglo-Americans increased the pressure for Anglicization, and in 1921, English was shortly made the sole language of instruction in Louisiana schools before a policy of multilingualism was revived in 1974. Louisiana has never had an official language, and the state constitution enumerates 'the right of the people to preserve, foster, and promote their respective historic, linguistic, and cultural origins.'"
+  },
+  {
+    "Slug State": "maine",
+    "Postal": "ME",
+    "Coordinates": {
+      "latitude": 45.2538,
+      "longitude": -69.4455,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Maine is the easternmost state in the New England region of the Northeastern United States. It borders New Hampshire to the west, the Gulf of Maine to the southeast, and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, respectively. Maine is the largest state in New England by total area. Of the 50 U.S. states, it is the 12th-smallest by area, the 9th-least populous, the 13th-least densely populated, and the most rural. Maine's capital is Augusta, and its most populous city is Portland, with a total population of 68,408, as of the 2020 census.",
+    "Second Info": "Today, Maine is known for its jagged, rocky Atlantic Ocean and bayshore coastlines, mountains, heavily forested interior, and its cuisine, particularly wild lowbush blueberries and seafood such as lobster and clams. Coastal and Down East Maine have emerged as important centers for the creative economy, especially in the vicinity of Portland, which is also bringing gentrification to the area."
+  },
+  {
+    "Slug State": "maryland",
+    "Postal": "MD",
+    "Coordinates": {
+      "latitude": 39.0458,
+      "longitude": -76.6413,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Maryland is a state in the Mid-Atlantic region of the United States. The state borders Virginia to its south, West Virginia to its west, Pennsylvania to its north, Delaware to its east, the Atlantic Ocean, and the national capital of Washington, D.C. With a total land area of 12,407 square miles (32,130 km2), Maryland is the ninth-smallest state by land area, and its population of 6,177,224 ranks it the 18th-most populous state and the fifth-most densely populated. Maryland's most populous city is Baltimore, and the capital is Annapolis. Occasional nicknames include Old Line State, the Free State, and the Chesapeake Bay State. It is named after Henrietta Maria, the French-born queen of England, Scotland, and Ireland during the 17th century.",
+    "Second Info": "Sixteen of Maryland's twenty-three counties, as well as the city of Baltimore, border the tidal waters of the Chesapeake Bay estuary and its many tributaries, which combined total more than 4,000 miles of shoreline. Although one of the smallest states in the U.S., it features a variety of climates and topographical features that have earned it the moniker of America in Miniature. In a similar vein, Maryland's geography, culture, and history combine elements of the Mid-Atlantic, Northeastern, and Southern regions of the country."
+  },
+  {
+    "Slug State": "massachusetts",
+    "Postal": "MA",
+    "Coordinates": {
+      "latitude": 42.4072,
+      "longitude": -71.3824,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Massachusetts is a state in the New England region of the Northeastern United States. It borders the Atlantic Ocean and Gulf of Maine to its east, Connecticut and Rhode Island to its south, New Hampshire and Vermont to its north, and New York to its west. Massachusetts is the sixth-smallest state by land area. With over seven million residents as of 2020, it is the most populous state in New England, the 16th-most-populous in the country, and the third-most densely populated, after New Jersey and Rhode Island.",
+    "Second Info": "Massachusetts is one of the most educated, most developed, and wealthiest states in the entire U.S. Per the US News and World Report, the state ranks first in the percentage of population 25 and over with either a bachelor's degree or advanced degree, first on both the American Human Development Index and standard Human Development Index, first in per capita income, and second in median household income (after Maryland). Consequently, Massachusetts ranks among the top states in the country for citizens to live in, as well as one of the most expensive in the country."
+  },
+  {
+    "Slug State": "michigan",
+    "Postal": "MI",
+    "Coordinates": {
+      "latitude": 44.3148,
+      "longitude": -85.6024,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Michigan is a state in the Great Lakes region of the Upper Midwestern United States. It borders Wisconsin to the northwest in the Upper Peninsula, and Indiana and Ohio to the south in the Lower Peninsula; it is also connected by Lakes Superior, Michigan, Huron, and Erie to Minnesota and Illinois, and the Canadian province of Ontario. With a population of nearly 10.12 million and an area of 96,716 sq mi (250,490 km2), Michigan is the 10th-largest state by population, the 11th-largest by area, and the largest by area east of the Mississippi River. Its capital is Lansing, and its largest city is Detroit. Metro Detroit is among the nation's most populous and largest metropolitan economies. The name derives from a gallicized variant of the original Ojibwe word mishigami, meaning 'large water' or 'large lake'.",
+    "Second Info": "Although Michigan has developed a diverse economy, in the early 20th century it became widely known as the center of the U.S. automotive industry, which developed as a major national economic force. It is home to the country's three major automobile companies (whose headquarters are all in Metro Detroit). Once exploited for logging and mining, today the sparsely populated Upper Peninsula is important for tourism because of its abundance of natural resources. The Lower Peninsula is a center of manufacturing, forestry, agriculture, services, and high-tech industry."
+  },
+  {
+    "Slug State": "minnesota",
+    "Postal": "MN",
+    "Coordinates": {
+      "latitude": 46.7296,
+      "longitude": -94.6859,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Minnesota is a state in the Upper Midwestern region of the United States. It is the 12th largest U.S. state in area and the 22nd most populous, with over 5.75 million residents. Minnesota is known as the 'Land of 10,000 Lakes' for having more than 14,000 bodies of fresh water covering at least ten acres each; roughly a third of the state is forested; much of the remainder is prairie and farmland. More than 60% of Minnesotans (about 3.7 million) live in the Minneapolis-Saint Paul metropolitan area, known as the 'Twin Cities', the state's main political, economic, and cultural hub and the 16th-largest metropolitan area in the U.S. Other minor metropolitan and micropolitan statistical areas include Duluth, Mankato, Moorhead, Rochester, and St. Cloud.",
+    "Second Info": "Since the late 20th century, Minnesota's economy has diversified away from traditional industries such as agriculture and resource extraction to services, finance, and health care; it is consequently one of the richest states in terms of GDP and per capita income. Minnesota is home to 11 federally recognized Native American reservations (seven Ojibwe, four Dakota), and its culture, demographics, and religious landscape reflect Scandinavian and German influence. In more recent decades, the state has become more multicultural, driven by both larger domestic migration and immigration from Latin America, Asia, the Horn of Africa, and the Middle East; the state has the nation's largest population of Somali Americans and second-largest Hmong community. Minnesota's standard of living and level of education are among the highest in the U.S., and it is ranked among the best states in metrics such as employment, median income, safety, and governance."
+  },
+  {
+    "Slug State": "mississippi",
+    "Postal": "MS",
+    "Coordinates": {
+      "latitude": 32.7416,
+      "longitude": -89.6787,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Mississippi is a state in the Southeastern region of the United States. It borders Tennessee to the north, Alabama to the east, the Gulf of Mexico to the south, Louisiana to the southwest, and Arkansas to the northwest. Mississippi's western boundary is largely defined by the Mississippi River, or its historical course. Mississippi is the 32nd largest by area and 35th-most populous of the 50 U.S. states and has the lowest per-capita income in the United States. Jackson is both the state's capital and largest city. Greater Jackson is the state's most populous metropolitan area, with a population of 591,978 in 2020.",
+    "Second Info": "Mississippi ranks among the highest of U.S. states in religiosity and among the lowest in measures of health, education, development, and income. Top industries in Mississippi today are agriculture and forestry. Mississippi produces more than half of the country's farm-raised catfish, and is also a top producer of sweet potatoes, cotton and pulpwood. Others include advanced manufacturing, utilities, transportation, and health services. Mississippi is almost entirely within the east Gulf Coastal Plain, and generally consists of lowland plains and low hills. The northwest remainder of the state consists of the Mississippi Delta. Mississippi's highest point is Woodall Mountain at 807 feet (246 m) above sea level adjacent to the Cumberland Plateau; the lowest is the Gulf of Mexico. Mississippi has a humid subtropical climate classification."
+  },
+  {
+    "Slug State": "missouri",
+    "Postal": "MO",
+    "Coordinates": {
+      "latitude": 38.3566,
+      "longitude": -92.4580,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Missouri is a state in the Midwestern region of the United States. Ranking 21st in land area, it borders Iowa to the north, Illinois, Kentucky and Tennessee to the east, Arkansas to the south and Oklahoma, Kansas, and Nebraska to the west. In the south are the Ozarks, a forested highland, providing timber, minerals, and recreation. The Missouri River, after which the state is named, flows through the center and into the Mississippi River, which makes up the eastern border. With over six million residents, it is the 19th-most populous state of the country. The largest urban areas are St. Louis, Kansas City, Springfield, and Columbia; the capital is Jefferson City.",
+    "Second Info": "Missouri's culture blends elements of the Midwestern and Southern United States. It is the birthplace of the musical genres ragtime, Kansas City jazz and St. Louis blues. The well-known Kansas City-style barbecue, and the lesser-known St. Louis-style barbecue, can be found across the state and beyond. Missouri is a major center of beer brewing and has some of the most permissive alcohol laws in the U.S. It is home to Anheuser-Busch, the world's largest beer producer, and produces an eponymous wine produced in the Missouri Rhineland and Ozarks. Outside the state's major cities, popular tourist destinations include the Lake of the Ozarks, Table Rock Lake and Branson."
+  },
+  {
+    "Slug State": "montana",
+    "Postal": "MT",
+    "Coordinates": {
+      "latitude": 46.9219,
+      "longitude": -110.4544,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Montana is a state in the Mountain West subregion of the Western United States. It borders Idaho to the west, North Dakota and South Dakota to the east, Wyoming to the south, and the Canadian provinces of Alberta, British Columbia, and Saskatchewan to the north. It is the fourth-largest state by area, the eighth-least populous state, and the third-least densely populated state. Its capital is Helena, while the most populous city is Billings. The western half of the state contains numerous mountain ranges, while the eastern half is characterized by western prairie terrain and badlands, with smaller mountain ranges found throughout the state.",
+    "Second Info": "Montana has no official nickname but several unofficial ones, most notably 'Big Sky Country', 'The Treasure State', 'Land of the Shining Mountains', and 'The Last Best Place'. Its economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, defense, and government sectors are also significant to the state's economy. Montana's fastest-growing sector is tourism, with 12.6 million tourists (as of 2019) visiting the state each year."
+  },
+  {
+    "Slug State": "nebraska",
+    "Postal": "NE",
+    "Coordinates": {
+      "latitude": 41.4925,
+      "longitude": -99.9018,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Nebraska is a state in the Midwestern region of the United States. It borders South Dakota to the north; Iowa to the east and Missouri to the southeast, both across the Missouri River; Kansas to the south; Colorado to the southwest; and Wyoming to the west.",
+    "Second Info": "Nebraska is the 16th largest state by land area, with just over 77,220 square miles (200,000 km2). With a population of over 1.9 million, it is the 37th most populous state and the 7th least densely populated. Its capital is Lincoln, and its most populous city is Omaha, which is on the Missouri River. Nebraska was admitted into the United States in 1867, two years after the end of the American Civil War. The Nebraska Legislature is unlike any other American legislature in that it is unicameral, and its members are elected without any official reference to political party affiliation."
+  },
+  {
+    "Slug State": "nevada",
+    "Postal": "NV",
+    "Coordinates": {
+      "latitude": 39.5501,
+      "longitude": -116.9346,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Nevada is a state in the Western region of the United States. It borders Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east. Nevada is the 7th-most extensive, the 32nd-most populous, and the 9th-least densely populated of the U.S. states. Nearly three-quarters of Nevada's people live in Clark County, which contains the Las Vegas-Paradise metropolitan area, including three of the state's four largest incorporated cities. Nevada's capital is Carson City. Las Vegas is the largest city in the state.",
+    "Second Info": "Nevada is known for its libertarian laws. In 1940, with a population of just over 110,000 people, Nevada was by far the least-populated state, with less than half the population of the next least-populous state, Wyoming. However, legalized gambling and lenient marriage and divorce laws transformed Nevada into a major tourist destination in the 20th century. Nevada is the only U.S. state where prostitution is legal, though it is illegal in its most populated regions - Clark County (Las Vegas), Washoe County (Reno) and Carson City (which, as an independent city, is not within the boundaries of any county). The tourism industry remains Nevada's largest employer, with mining continuing as a substantial sector of the economy: Nevada is the fourth-largest producer of gold in the world. Nevada is the driest state, and over time, and influenced by climate change, droughts in Nevada have been increasing in frequency and severity, putting a further strain on Nevada's water security."
+  },
+  {
+    "Slug State": "new-hampshire",
+    "Postal": "NH",
+    "Coordinates": {
+      "latitude": 43.1939,
+      "longitude": -71.5724,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "New Hampshire is a state in the New England region of the Northeastern United States. It borders Massachusetts to the south, Vermont to the west, Maine and the Gulf of Maine to the east, and the Canadian province of Quebec to the north. Of the 50 U.S. states, New Hampshire is the fifth smallest by area and the tenth least populous, with a population of 1,377,529 residents as of the 2020 census. Concord is the state capital and Manchester is the most populous city. New Hampshire's motto, 'Live Free or Die', reflects its role in the American Revolutionary War; its nickname, 'The Granite State', refers to its extensive granite formations and quarries. It is well known nationwide for holding the first primary (after the Iowa caucus) in the U.S. presidential election cycle, and for its resulting influence on American electoral politics.",
+    "Second Info": "Reflecting a nationwide trend, New Hampshire's industrial sector declined after World War II. Since 1950, its economy diversified to include financial and professional services, real estate, education, transportation and high-tech, with manufacturing still higher than the national average. Beginning in the 1950s, its population surged as major highways connected it to Greater Boston and led to more commuter towns. New Hampshire is among the wealthiest and most-educated states in the U.S. It is one of nine states without an income tax and has no taxes on sales, capital gains, or inheritance while relying heavily on local property taxes to fund education; consequently, its state tax burden is among the lowest in the country. It ranks among the top ten states in metrics such as governance, healthcare, socioeconomic opportunity, and fiscal stability. New Hampshire is one of the least religious states and known for its libertarian-leaning political culture; it was until recently a swing state in presidential elections."
+  },
+  {
+    "Slug State": "new-jersey",
+    "Postal": "NJ",
+    "Coordinates": {
+      "latitude": 40.0583,
+      "longitude": -74.4057,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "New Jersey is a state situated within both the Mid-Atlantic and Northeastern regions of the United States. It is the most densely populated of all 50 U.S. states, and is situated at the center of the Northeast megalopolis. New Jersey is bordered on its north and east by New York state; on its east, southeast, and south by the Atlantic Ocean; on its west by the Delaware River and Pennsylvania; and on its southwest by Delaware Bay and Delaware. At 7,354 square miles (19,050 km2), New Jersey is the fifth-smallest state in land area, but with close to 9.3 million residents as of the 2020 United States census, its highest decennial count ever, it ranks 11th in population. The state capital is Trenton, and the state's most populous city is Newark. New Jersey is the only U.S. state in which every county is deemed urban by the U.S. Census Bureau with 13 counties included in the New York metropolitan area, seven counties in the Philadelphia metropolitan area, and Warren County part of the heavily industrialized Lehigh Valley metropolitan area.",
+    "Second Info": "As of 2022, New Jersey had the highest annual median household income, at $96,346, of all 50 states. Almost one-tenth of all households in the state, or over 323,000, are millionaires, the highest representation of millionaires among all states. New Jersey's public school system consistently ranks at or among the top of all U.S. states. According to climatology research by the U.S. National Oceanic and Atmospheric Administration, New Jersey has been the fastest-warming state by average air temperature over a 100-year period beginning in the early 20th century, which has been attributed to warming of the North Atlantic Ocean."
+  },
+  {
+    "Slug State": "new-mexico",
+    "Postal": "NM",
+    "Coordinates": {
+      "latitude": 34.5199,
+      "longitude": -105.8701,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "New Mexico is a state in the Southwestern region of the United States. It is one of the Mountain States of the southern Rocky Mountains, sharing the Four Corners region with Utah, Colorado, and Arizona. It also borders Texas to the east and southeast, Oklahoma to the northeast, and the Mexican states of Chihuahua and Sonora to the south. New Mexico's largest city is Albuquerque, and its state capital is Santa Fe, the oldest state capital in the U.S., founded in 1610 as the government seat of Nuevo México in New Spain.",
+    "Second Info": "New Mexico's history has contributed to its unique demographic and cultural character. It is one of only seven majority-minority states, with the nation's highest percentage of Hispanic and Latino Americans and the second-highest percentage of Native Americans after Alaska. The state is home to one-third of the Navajo Nation, 19 federally recognized Pueblo communities, and three federally recognized Apache tribes. Its large Hispanic population includes Hispanos descended from settlers during the Spanish era, and later groups of Mexican Americans since the 19th century. The New Mexican flag, which is among the most recognizable in the U.S., reflects the state's eclectic origins, featuring the ancient sun symbol of the Zia, a Puebloan tribe, with the scarlet and gold coloration of the Spanish flag. The confluence of indigenous, Hispanic (Spanish and Mexican), and American influences is also evident in New Mexico's unique cuisine, music genre, and architectural styles."
+  },
+  {
+    "Slug State": "new-york",
+    "Postal": "NY",
+    "Coordinates": {
+      "latitude": 42.1657,
+      "longitude": -74.9481,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "New York is a state in the Northeastern region of the United States. A Mid-Atlantic state, New York borders New England, and has an international border with Canada. With almost 19.6 million residents, it is the fourth-most populous state in the United States and seventh-most densely populated as of 2023. New York is the 27th-largest U.S. state by area, with a total area of 54,556 square miles (141,300 km2).",
+    "Second Info": "Many landmarks in New York are well known, including four of the world's ten most-visited tourist attractions in 2013: Times Square, Central Park, Niagara Falls and Grand Central Terminal. The state is home to approximately 200 colleges and universities, including two Ivy League universities, Columbia University and Cornell University, and the expansive State University of New York, which is among the largest university systems in the nation. New York City is home to the headquarters of the United Nations, and it is sometimes described as the world's most important city, the cultural, financial, and media epicenter, and the capital of the world."
+  },
+  {
+    "Slug State": "north-carolina",
+    "Postal": "NC",
+    "Coordinates": {
+      "latitude": 35.7596,
+      "longitude": -79.0193,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "North Carolina is a state in the Southeastern region of the United States. It borders Virginia to the north, the Atlantic Ocean to the east, South Carolina to the south, Georgia to the southwest, and Tennessee to the west. The state is the 28th-largest and 9th-most populous of the United States. Along with South Carolina, it makes up the Carolinas region of the East Coast. In the 2020 census, the state had a population of 10,439,388. Raleigh is the state's capital and Charlotte is its largest city. The Charlotte metropolitan area, with a population of 2,728,933 in 2020, is the most-populous metropolitan area in North Carolina, the 21st-most populous in the United States, and the largest banking center in the nation after New York City. The Raleigh-Durham-Cary, NC Combined Statistical Area is the second-largest metropolitan area in the state and 32nd-most populous in the United States, with a population of 2,238,315 in 2020, and is home to the largest research park in the United States, Research Triangle Park.",
+    "Second Info": "North Carolina is defined by a wide range of elevations and landscapes. From west to east, North Carolina's elevation descends from the Appalachian Mountains to the Piedmont and Atlantic coastal plain. North Carolina's Mount Mitchell at 6,684 ft (2,037 m) is the highest point in North America east of the Mississippi River. Most of the state falls in the humid subtropical climate zone; however, the western, mountainous part of the state has a subtropical highland climate."
+  },
+  {
+    "Slug State": "north-dakota",
+    "Postal": "ND",
+    "Coordinates": {
+      "latitude": 47.5515,
+      "longitude": -101.0020,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "North Dakota is a state in the Upper Midwest region of the United States. It borders Minnesota to the east, South Dakota to the south, Montana to the west, and the Canadian provinces of Saskatchewan and Manitoba to the north. North Dakota is part of the Great Plains region, characterized by broad prairies, steppe, temperate savanna, badlands, and farmland. North Dakota is the 19th largest state, but with a population of less than 780,000, it is the 4th least populous and 4th most sparsely populated. The capital is Bismarck while the most populous city is Fargo, which accounts for nearly a fifth of the state's population; both cities are among the fastest-growing in the U.S., although half of all residents live in rural areas.",
+    "Second Info": "Beginning in the mid-20th century, North Dakota's rich natural resources became more critical to economic development; into the 21st century, oil extraction from the Bakken formation in the northwest has played a major role in the state's prosperity. Such development has led to unprecedented population growth (along with high birth rates) and reduced unemployment, with North Dakota having the second-lowest unemployment rate in the U.S., after Hawaii. It ranks relatively well in metrics such as infrastructure, quality of life, economic opportunity, and public safety. It is believed to host the geographic center of North America, Rugby, and is home to what was once the tallest artificial structure in the Western Hemisphere, the KVLY-TV mast."
+  },
+  {
+    "Slug State": "ohio",
+    "Postal": "OH",
+    "Coordinates": {
+      "latitude": 40.4173,
+      "longitude": -82.9071,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Ohio is a state in the Midwestern region of the United States. Ohio borders Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Indiana to the west, and Michigan to the northwest. Of the 50 U.S. states, it is the 34th-largest by area. With a population of nearly 11.8 million, Ohio is the seventh-most populous and tenth-most densely populated state. Its capital and largest city is Columbus, with other large population centers including Cleveland, Cincinnati, Dayton, Akron, and Toledo. Ohio is nicknamed the 'Buckeye State' after its Ohio buckeye trees, and Ohioans are also known as 'Buckeyes'. Its flag is the only non-rectangular flag of all U.S. states.",
+    "Second Info": "Modeled on its federal counterpart, Ohio's government is composed of the executive branch, led by the governor; the legislative branch, consisting of the bicameral Ohio General Assembly; and the judicial branch, led by the state Supreme Court. Ohio occupies 15 seats in the United States House of Representatives, the seventh-largest delegation. Its politics has been described as moderate; the state is known for its status as both a swing state and a bellwether in national elections. Seven presidents of the United States have come from Ohio, earning it the moniker 'the Mother of Presidents'."
+  },
+  {
+    "Slug State": "oklahoma",
+    "Postal": "OK",
+    "Coordinates": {
+      "latitude": 35.0078,
+      "longitude": -97.0929,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Oklahoma is a state in the South Central region of the United States. It borders Texas to the south and west, Kansas to the north, Missouri to the northeast, Arkansas to the east, New Mexico to the west, and Colorado to the northwest. Partially in the western extreme of the Upland South, it is the 20th-most extensive and the 28th-most populous of the 50 United States. Its residents are known as Oklahomans and its capital and largest city is Oklahoma City. The state's name is derived from the Choctaw words okla, 'people' and humma, which translates as 'red'. Oklahoma is also known informally by its nickname, 'The Sooner State', in reference to the Sooners, settlers who staked their claims in formerly American Indian-owned lands until the Indian Appropriations Act of 1889 authorized the Land Rush of 1889 opening the land to white settlement.",
+    "Second Info": "With ancient mountain ranges, prairie, mesas, and eastern forests, most of Oklahoma lies in the Great Plains, Cross Timbers, and the U.S. Interior Highlands, all regions prone to severe weather. Oklahoma is at a confluence of three major American cultural regions. Historically, it served as a government-sanctioned territory for American Indians moved from east of the Mississippi River, a route for cattle drives from Texas and related regions, and a destination for Southern settlers. There are currently 26 Native American languages spoken in Oklahoma. According to the 2020 U.S. census, 14.2 percent of Oklahomans identify as American Indians, the highest percentage of Indian population in any state."
+  },
+  {
+    "Slug State": "oregon",
+    "Postal": "OR",
+    "Coordinates": {
+      "latitude": 43.8041,
+      "longitude": -120.5542,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Oregon is a state in the Pacific Northwest region of the United States. Oregon is a part of the Western United States, with the Columbia River delineating much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho. The 42° north parallel delineates the southern boundary with California and Nevada. The western boundary is formed by the Pacific Ocean.",
+    "Second Info": "Oregon's economy has historically been powered by various forms of agriculture, fishing, logging, and hydroelectric power. Oregon is the top lumber producer of the contiguous United States, with the lumber industry dominating the state's economy during the 20th century.Technology is another one of Oregon's major economic forces, beginning in the 1970s with the establishment of the Silicon Forest and the expansion of Tektronix and Intel. Sportswear company Nike, Inc., headquartered in Beaverton, is the state's largest public corporation with an annual revenue of $46.7 billion."
+  },
+  {
+    "Slug State": "pennsylvania",
+    "Postal": "PA",
+    "Coordinates": {
+      "latitude": 40.8781,
+      "longitude": -77.7996,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Pennsylvania is a state spanning the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States. Pennsylvania borders Delaware to its southeast, Maryland to its south, West Virginia to its southwest, Ohio to its west, Lake Erie, New York to its north, the Delaware River and New Jersey to its east, and the Canadian province of Ontario to its northwest.",
+    "Second Info": "Since the state's 1787 founding, a number of influential Pennsylvanians have proven national and global leaders in their respective fields. Pennsylvania also has accumulated a lengthy list of firsts among U.S. states, including founding the nation's first library (1731), the first social club (1732), the first science organization (1743), the first Lutheran church (1748), the first hospital (1751), the first medical school (1765), the first daily newspaper (1784), the first arts institution (1805), the first theatre (1809), the first business school (1881), and other firsts among the nation's 50 states."
+  },
+  {
+    "Slug State": "rhode-island",
+    "Postal": "RI",
+    "Coordinates": {
+      "latitude": 41.5801,
+      "longitude": -71.4774,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Rhode Island is a state in the New England region of the Northeastern United States. It borders Connecticut to its west; Massachusetts to its north and east; and the Atlantic Ocean to its south via Rhode Island Sound and Block Island Sound; and shares a small maritime border with New York, east of Long Island. Rhode Island is the smallest U.S. state by area and the seventh-least populous, with slightly fewer than 1.1 million residents as of 2020; but it has grown at every decennial count since 1790 and is the second-most densely populated state, after New Jersey. The state takes its name from the eponymous island, though nearly all its land area is on the mainland. Providence is its capital and most populous city.",
+    "Second Info": "The state was officially named the State of Rhode Island and Providence Plantations since the colonial era, but came to be commonly known as 'Rhode Island'. In November 2020, the state's voters approved an amendment to the state constitution formally dropping 'and Providence Plantations' from its full name. Its official nickname is the 'Ocean State', a reference to its 400 mi (640 km) of coastline and the large bays and inlets that make up about 14% of its total area."
+  },
+  {
+    "Slug State": "south-carolina",
+    "Postal": "SC",
+    "Coordinates": {
+      "latitude": 33.8361,
+      "longitude": -81.1637,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "South Carolina is a state in the coastal Southeastern region of the United States. It borders North Carolina to the north, the Atlantic Ocean to the southeast, and Georgia to the southwest across the Savannah River. Along with North Carolina, it makes up the Carolinas region of the East Coast. South Carolina is the 40th-largest and 23rd-most populous U.S. state with a recorded population of 5,124,712 according to the 2020 census. In 2019, its GDP was $213.45 billion. South Carolina is composed of 46 counties. The capital is Columbia with a population of 137,300 in 2020; while its largest city is Charleston with a 2020 population of 150,277. The Greenville-Spartanburg-Anderson, SC Combined Statistical Area is the most populous in the state, with a 2020 population of 1,487,610.",
+    "Second Info": "Within South Carolina from east to west are three main geographic regions, the Atlantic coastal plain, the Piedmont, and the Blue Ridge Mountains in the northwestern corner of Upstate South Carolina. South Carolina has primarily a humid subtropical climate, with hot, humid summers and mild winters. Areas in the Upstate have a subtropical highland climate. Along South Carolina's eastern coastal plain are many salt marshes and estuaries. South Carolina's southeastern Lowcountry contains portions of the Sea Islands, a chain of barrier islands along the Atlantic Ocean."
+  },
+  {
+    "Slug State": "south-dakota",
+    "Postal": "SD",
+    "Coordinates": {
+      "latitude": 43.9695,
+      "longitude": -99.9018,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "South Dakota is a state in the North Central region of the United States. South Dakota borders North Dakota to the north, Minnesota to the east, Iowa to the southeast) Nebraska to the south, Wyoming to the west, and Montana to the northwest.The state bisects Missouri River, dividing South Dakota into two geographically and socially distinct halves, known to residents as 'East River' and 'West River'. It is also part of the Great Plains. South Dakota is the 17th largest by area, the 5th least populous, and the 5th least densely populated of the 50 United States. Pierre is the state capital, and Sioux Falls, with a population of about 213,900, is South Dakota's most populous city.",
+    "Second Info": "While several Democrats have represented South Dakota for multiple terms in both chambers of Congress, the state government is largely controlled by the Republican Party, whose nominees have carried South Dakota in each of the last 14 presidential elections. Historically dominated by an agricultural economy and a rural lifestyle, South Dakota has recently sought to diversify its economy in other areas to both attract and retain residents. South Dakota's history and rural character still strongly influence the state's culture. South Dakota is named after the Dakota Sioux tribe, which comprises a large portion of the population with nine reservations currently in the state and has historically dominated the territory."
+  },
+  {
+    "Slug State": "tennessee",
+    "Postal": "TN",
+    "Coordinates": {
+      "latitude": 35.5175,
+      "longitude": -86.5804,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Tennessee is a landlocked state in the Southeastern region of the United States. It borders Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the southwest, and Missouri to the northwest. Tennessee is the 36th-largest by area and the 15th-most populous of the 50 states. Tennessee is geographically, culturally, and legally divided into three Grand Divisions of East, Middle, and West Tennessee. Nashville is the state's capital and largest city, and anchors its largest metropolitan area. Other major cities include Memphis, Knoxville, Chattanooga, and Clarksville. Tennessee's population as of the 2020 United States census is approximately 6.9 million.",
+    "Second Info": "During the 20th century, Tennessee transitioned from a predominantly agrarian society to a more diversified economy. This was aided in part by massive federal investment in the Tennessee Valley Authority (TVA) and the city of Oak Ridge, which was established during World War II to house the Manhattan Project's uranium enrichment facilities for the construction of the world's first atomic bombs. After the war, the Oak Ridge National Laboratory became a key center of scientific research. In 2016, the element tennessine was named for the state, largely in recognition of the roles played by Oak Ridge, Vanderbilt University, and the University of Tennessee in its discovery. Tennessee has also played a major role in the development of many forms of popular music, including country, blues, rock and roll, soul, and gospel."
+  },
+  {
+    "Slug State": "texas",
+    "Postal": "TX",
+    "Coordinates": {
+      "latitude": 31.9686,
+      "longitude": -99.9018,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Texas is the most populous state in the South Central region of the United States. Texas borders Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest. Texas has a coastline with the Gulf of Mexico to the southeast. Covering 268,596 square miles (695,660 km2), and with over 30 million residents as of 2023, it is the second-largest U.S. state by both area (after Alaska) and population (after California).",
+    "Second Info": "Historically, four major industries shaped the Texas economy prior to World War II: cattle and bison, cotton, timber, and oil. Before and after the Civil War, the cattle industry—which Texas came to dominate—was a major economic driver and created the traditional image of the Texas cowboy. In the later 19th century, cotton and lumber grew to be major industries as the cattle industry became less lucrative. Ultimately, the discovery of major petroleum deposits (Spindletop in particular) initiated an economic boom that became the driving force behind the economy for much of the 20th century. Texas developed a diversified economy and high tech industry during the mid-20th century. As of 2022, it has the most Fortune 500 company headquarters (53) in the United States. With a growing base of industry, the state leads in many industries, including tourism, agriculture, petrochemicals, energy, computers and electronics, aerospace, and biomedical sciences. Texas has led the U.S. in state export revenue since 2002 and has the second-highest gross state product. If Texas were a sovereign state, it would have the 10th-largest economy in the world."
+  },
+  {
+    "Slug State": "utah",
+    "Postal": "UT",
+    "Coordinates": {
+      "latitude": 39.3210,
+      "longitude": -111.0937,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Utah is a landlocked state in the Mountain West subregion of the Western United States. It borders Colorado to its east, Wyoming to its northeast, Idaho to its north,Arizona to its south, and Nevada to its west. Utah also touches a corner of New Mexico in the southeast. Of the fifty U.S. states, Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated. Urban development is mostly concentrated in two areas: the Wasatch Front in the north-central part of the state, which is home to roughly two-thirds of the population and includes the capital city, Salt Lake City; and Washington County in the southwest, with more than 180,000 residents. Most of the western half of Utah lies in the Great Basin.",
+    "Second Info": "Utah has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining, multi-level marketing, and tourism. Utah has been one of the fastest growing states since 2000, with the 2020 U.S. census confirming the fastest population growth in the nation since 2010. St. George was the fastest-growing metropolitan area in the United States from 2000 to 2005. Utah ranks among the overall best states in metrics such as healthcare, governance, education, and infrastructure. It has the 12th-highest median average income and the least income inequality of any U.S. state. Over time and influenced by climate change, droughts in Utah have been increasing in frequency and severity, putting a further strain on Utah's water security and impacting the state's economy."
+  },
+  {
+    "Slug State": "vermont",
+    "Postal": "VT",
+    "Coordinates": {
+      "latitude": 44.5588,
+      "longitude": -72.5778,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Vermont is a landlocked state in the New England region of the Northeastern United States. It borders Massachusetts to the south, New Hampshire to the east, New York to the west, and the Canadian province of Quebec to the north. As of the 2020 U.S. census, the state had a population of 643,503, ranking it the second least populated U.S. state ahead of Wyoming. It is the nation's sixth smallest state in area. The state's capital of Montpelier is the least populous U.S. state capital. No other U.S. state has a most populous city with fewer residents than Burlington. Vermont is also well known for being the largest producer of true maple syrup in the United States for over 200 years.",
+    "Second Info": "Vermont's economic activity of $40.6 billion in 2022 ranked last on the list of U.S. states and territories by GDP but 21st in GDP per capita. Known for its progressivism, the state was one of the first in the U.S. to recognize same-sex civil unions and marriage, has the highest proportion of renewable electricity generation at 99.9%, and is one of the least religious and least diverse states."
+  },
+  {
+    "Slug State": "virginia",
+    "Postal": "VA",
+    "Coordinates": {
+      "latitude": 37.7693,
+      "longitude": -78.1699,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Virginia is a state in the Mid-Atlantic and Southeastern regions of the United States between the Atlantic Coast and the Appalachian Mountains. The state's capital is Richmond and its most populous city is Virginia Beach, though its most populous subdivision is Fairfax County, part of Northern Virginia, where slightly over a third of Virginia's population of 8.72 million live as of 2023. The Blue Ridge Mountains cross the western and southwestern parts of the state. The state's central region lies predominantly in the Piedmont. Eastern Virginia is part of the Atlantic Plain. The Middle Peninsula forms the mouth of the Chesapeake Bay.",
+    "Second Info": "Virginia's state legislature is the Virginia General Assembly, which was established in July 1619, making it the oldest current law-making body in North America. It is made up of a 40-member Senate and a 100-member House of Delegates. Unlike other states, cities and counties in Virginia function as equals, but the state government manages most local roads inside each. It is the only state where governors are prohibited from serving consecutive terms. Virginia's economy is diverse. The Shenandoah Valley has a strong agricultural sector. Northern Virginia has high technology companies and U.S. federal government agencies, including the U.S. Department of Defense and Central Intelligence Agency, while Hampton Roads, the site of the region's main seaport, has a significant military sector."
+  },
+  {
+    "Slug State": "washington",
+    "Postal": "WA",
+    "Coordinates": {
+      "latitude": 47.7511,
+      "longitude": -120.7401,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Washington is a state in the Pacific Northwest region of the United States. It is often referred to as Washington state to distinguish it from the national capital, both named for George Washington (the first U.S. president). Washington borders the Pacific Ocean to the west, Oregon to the south, Idaho to the east, and the Canadian province of British Columbia to the north. The state was formed from the western part of the Washington Territory, which was ceded by the British Empire in the Oregon Treaty of 1846. It was admitted to the Union as the 42nd state in 1889. Olympia is the state capital, and the most populous city is Seattle.",
+    "Second Info": "One of the wealthiest and most socially liberal states in the country, Washington consistently ranks among the top states for highest life expectancy and employment rates. It was one of the first states (alongside Colorado) to legalize medicinal and recreational cannabis, was among the first states to legalize same-sex marriage, and was one of only four states to have provided legal abortions on request before Roe v. Wade loosened abortion laws nationwide in 1973. Washington voters also approved a 2008 referendum on the legalization of physician-assisted suicide, making it one of 10 states states to have legalized the practice."
+  },
+  {
+    "Slug State": "west-virginia",
+    "Postal": "WV",
+    "Coordinates": {
+      "latitude": 38.5976,
+      "longitude": -80.4549,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "West Virginia is a state in the Southern and Mid-Atlantic regions of the United States. It borders Pennsylvania to the north and east, Maryland to the east and northeast, Virginia to the southeast, Kentucky to the southwest, and Ohio to the northwest. West Virginia is the 10th-smallest state by area and ranks as the 12th-least populous state, with a population of 1,793,716 residents. The capital and most populous city is Charleston with a population of 49,055.",
+    "Second Info": "The state is noted for its mountains and rolling hills, its historically significant coal mining and logging industries, and its political and labor history. It is also known for its tourism and a wide range of outdoor recreational opportunities, including skiing, whitewater rafting, fishing, hiking, backpacking, mountain biking, rock climbing, and hunting. From the Great Depression to the 1990s, the state voted heavily for the Democratic Party due to its tradition of union-based politics. Since then, the state has become heavily Republican, and is considered a 'deep red' state at the federal level."
+  },
+  {
+    "Slug State": "wisconsin",
+    "Postal": "WI",
+    "Coordinates": {
+      "latitude": 44.7866,
+      "longitude": -89.8262,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Wisconsin is a state in the Upper Midwestern region of the United States. It borders Minnesota to the west, Iowa to the southwest, Illinois to the south, Lake Michigan to the east, Michigan to the northeast, and Lake Superior to the north. Wisconsin is the 25th-largest state by land area and the 20th-most populous.",
+    "Second Info": "Wisconsin is one of the nation's leading dairy producers and is known as 'America's Dairyland'; it is particularly famous for its cheese. The state is also famous for its beer, particularly and historically in Milwaukee, most notably as the headquarters of the Miller Brewing Company. Wisconsin has some of the most permissive alcohol laws in the country and is well known for its drinking culture. Its economy is dominated by manufacturing, healthcare, information technology, and agriculture—specifically dairy, cranberries, and ginseng. Tourism is also a major contributor to the state's economy. The gross domestic product in 2020 was $348 billion."
+  },
+  {
+    "Slug State": "wyoming",
+    "Postal": "WY",
+    "Coordinates": {
+      "latitude": 43.0759,
+      "longitude": -107.2903,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Wyoming is a state in the Mountain West subregion of the Western United States. It borders Montana to the north and northwest, South Dakota and Nebraska to the east, Idaho to the west, Utah to the southwest, and Colorado to the south. With a population of 576,851 in 2020, Wyoming is the least populous state despite being the 10th largest by area, with the second-lowest population density after Alaska. The state capital and most populous city is Cheyenne, which had an estimated population of 63,957 in 2018.",
+    "Second Info": "Today Wyoming's economy is largely based on tourism and the extraction of minerals such as coal, natural gas, oil, and trona. Agricultural commodities include barley, hay, livestock, sugar beets, wheat, and wool. It was the first state (barring New Jersey before 1807) to allow women the right to vote and the right to assume elected office, as well as the first state to elect a female governor. Due to this part of its history, its main nickname is 'The Equality State' and its official state motto is 'Equal Rights'. It is among the least religious states in the country, and is known for its political culture leaning towards libertarian conservatism. The Republican presidential nominee has carried the state in every election since 1968."
+  },
+  {
+    "Slug State": "district-of-columbia",
+    "Postal": "DC",
+    "Coordinates": {
+      "latitude": 38.8951,
+      "longitude": -77.0369,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Washington, D.C., formally the District of Columbia and commonly called Washington or D.C., is the capital city and the federal district of the United States. The city is located on the east bank of the Potomac River, which forms its southwestern border with Virginia and borders Maryland to its north and east. Washington, D.C. was named for George Washington, a Founding Father, victorious commanding general of the Continental Army in the American Revolutionary War and the first president of the United States, who is widely considered the 'Father of his country'. The district is named for Columbia, the female personification of the nation.",
+    "Second Info": "Washington, D.C. anchors the southern end of the Northeast megalopolis, one of the nation's largest and most influential cultural, political, and economic regions that also includes some of the nation's largest and most prominent cities, including Baltimore, Boston, New York City, and Philadelphia. As the seat of the U.S. federal government and several international organizations, the city is an important world political capital. The city had 20.7 million domestic visitors and 1.2 million international visitors, ranking seventh among U.S. cities as of 2022."
+  },
+  {
+    "Slug State": "puerto-rico",
+    "Postal": "PR",
+    "Coordinates": {
+      "latitude": 18.2208,
+      "longitude": -66.5901,
+      "latitudeDelta": 0.5,
+      "longitudeDelta": 0.5
+    },
+    "First Info": "Puerto Rico, officially the Commonwealth of Puerto Rico, is a Caribbean island and unincorporated territory of the United States with official Commonwealth status. It is located in the northeast Caribbean Sea, approximately 1,000 miles (1,600 km) southeast of Miami, Florida, between the Dominican Republic and the U.S. Virgin Islands, and includes the eponymous main island and several smaller islands, such as Mona, Culebra, and Vieques. It has roughly 3.2 million residents, and its capital and most populous city is San Juan. Spanish and English are the official languages of the executive branch of government, though Spanish predominates.",
+    "Second Info": "Puerto Ricans have been U.S. citizens since 1917, and can move freely between the island and the mainland. However, when resident in the unincorporated territory of Puerto Rico, Puerto Ricans are disenfranchised at the national level, do not vote for the president or vice president, and generally do not pay federal income tax. In common with four other territories, Puerto Rico sends a nonvoting representative to the U.S. Congress, called a Resident Commissioner, and participates in presidential primaries; as it is not a state, Puerto Rico does not have a vote in Congress, which governs it under the Puerto Rico Federal Relations Act of 1950. Congress approved a local constitution in 1952, allowing U.S. citizens residing on the island to elect a governor. Puerto Rico's current and future political status has consistently been a matter of significant debate."
+  }
+]
